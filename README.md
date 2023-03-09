@@ -1,4 +1,4 @@
 # Sentence Transformation
 I collect and share all Sentence Transformation QnAs
 
-Form: Every file has 100 sentences, except for the docx file.
+Form: 100KB for every Markdown file, except for the docx, which has all in one.
